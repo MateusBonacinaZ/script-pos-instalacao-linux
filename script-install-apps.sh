@@ -16,7 +16,9 @@ echo -e "[YUM/DNF] PACOTES ATUALIZADOS! \n"
 ## Listando o nome dos pacotes que serão instalados via YUM/DNF ##
 PACOTES_DNF=(
 	"flatpak"
-	"wget")
+	"wget"
+	"gnome-tweaks"
+	)
 
 ## Criando loop na lista de pacotes e verificando se estão instalados, caso não esteja eles serão instalados ##
 for NOME_PACOTE in ${PACOTES_DNF[@]}; do
@@ -43,6 +45,8 @@ PACOTES_FLATPAK=(
 	"com.spotify.Client"
 	"org.gimp.GIMP"
 	"com.rafaelmardojai.Blanket"
+	"com.obsproject.Studio"
+	"org.videolan.VLC"
 	)
 
 ## Criando loop na lista de pacotes e verificando se estão instalados, caso não esteja eles serão instalados ##

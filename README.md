@@ -10,7 +10,9 @@
   <li>Flatpak (Repositório oficial do Fedora): Implementação de programas para sistemas baseados em Linux;</li>
   <li>GIMP (Flatpak - Flathub): Editor de imagens;</li>
   <li>GNOME Tweaks (Repositório oficial do Fedora): Customizador avançado do GNOME;</li>
-  <li>OBS Studio (Flatpak - Flaathub): Ferramenta para gravação/streaming;</li>
+  <li>Google Chrome (Flatpak - Flathub): Navegador Web do Google;</li>
+  <li>OBS Studio (Flatpak - Flathub): Ferramenta para gravação/streaming;</li>
+  <li>Pycharm Community Edition (Flatpak -  Flathub): Editor de arquivos Python;</li>
   <li>Spotify (Flatpak - Flathub): Streaming de música;</li>
   <li>VLC (Flatpak - Flathub): Reprodutor de mídia;</li>
   <li>Visual Studio Code (Programa externo): Editor de arquivos de texto;</li>
